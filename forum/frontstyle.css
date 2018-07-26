@@ -1,0 +1,36 @@
+
+#quotedisplay{
+	text-align: center;
+	 padding-bottom:50px;
+	 padding-top:30px;
+  font-size:35px;
+  font-family:arial-round;
+  font-variant: small-caps;
+}
+body {
+      position: relative; 
+      background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 1350px 700px;
+  }
+  #Home {
+  	padding-top:80px;
+  	height:500px;
+  	color: white; 
+  font-family:arial-round;
+font-size: 100px;
+}
+  #About {
+  	padding-top:120px;
+  	height:500px;
+  	color: white;
+  	font-size: 22px;font-family:arial-round; }
+  #ContactUs {
+  	text-align: center;
+  	padding-top:250px;
+  	height:500px;
+  	color: white ;
+  font-family:arial-round;}
+  p{
+  	font-family:arial-round;
+  }
